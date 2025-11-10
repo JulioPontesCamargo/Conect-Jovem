@@ -1,61 +1,54 @@
-# Olá! Eu sou Júlio César
+# 💌 Querido Recrutador
 
-Minha foto: ../img/Foto.jpg (Professor do Elevar)
+O **Projeto Elevar** nasceu com a missão de **transformar vidas** por meio da educação, da cultura e da tecnologia.  
+Somos uma iniciativa social que atua com jovens em situação de vulnerabilidade, oferecendo oportunidades de **aprendizado, qualificação e inclusão digital** — para que cada um deles possa enxergar um novo caminho de possibilidades.
 
-[Faça uma descrição sobre você, tente usar muitas palavras, evite usar o ChatGPT, se for usar, melhore o texto que você já criou]
+Acreditamos que a tecnologia, quando aliada à educação, pode **romper ciclos de desigualdade** e abrir portas para o mundo do trabalho e da cidadania.
 
-## Sobre mim
+---
 
-- **Idade:** [opcional]
-- **Cidade:** [opcional]
-- **Personalidade:** 
-- **Interesses:**
-- **O que me motiva:**
+## 🌱 Sobre o curso “Conecta Jovem: Tecnologia para o Futuro”
 
+Dentro do Projeto Elevar, o curso **Conecta Jovem** tem como propósito **introduzir adolescentes no universo digital de forma prática e transformadora**.  
+Aqui, nossos alunos aprendem não apenas a usar o computador, mas a **entender, criar e documentar conhecimento** — desenvolvendo habilidades técnicas, criativas e socioemocionais.
 
+Durante o curso, eles exploram desde o funcionamento básico do computador até conceitos de cidadania digital, segurança online, produção de conteúdo, ferramentas de escritório e, por fim, **criação de portfólios digitais profissionais**.
 
-O que gosto de fazer
+---
 
-- [1ª coisa]
-- [2ª coisa]
-- [3ª coisa]
-[4ª coisa]
-[5ª coisa]
+## 💻 A iniciativa do portfólio no GitHub
 
+Como parte do aprendizado, cada jovem é orientado a **criar seu próprio espaço no GitHub** — a mesma plataforma usada por profissionais e empresas de tecnologia no mundo todo.
 
-(Edite essa lista livremente — o objetivo é expressar rotina e interesses reais)
+Lá, eles aprendem a:
 
-Meus objetivos
+- Escrever e documentar em **Markdown (.md)**  
+- Publicar seus **artigos, projetos e reflexões** sobre os temas estudados  
+- Organizar ideias, seguir boas práticas e desenvolver seu próprio portifólio profissional.
 
-[Descreva um objetivo válido]
+Mais do que um exercício técnico, esse portfólio representa o início de uma **trajetória profissional consciente e autêntica**.  
+É o lugar onde nossos alunos mostram quem são, o que aprenderam e o que podem se tornar.
 
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
+---
 
+## 🤝 Um convite
 
-Markdown e documentação digital
-[Vamos fazer um link com nosso primeiro artigo] 
-> “Como usar o GitHub para criar e compartilhar ideias”
-“Conceitos de cidadania e segurança online”
-“Conceitos de segurança da informação”
+Ao visitar o perfil de um de nossos alunos, você verá mais do que um repositório de códigos:  
+verá **histórias reais de superação, curiosidade e vontade de aprender**.
 
+Cada `README.md`, cada artigo e cada commit carrega o esforço de jovens que estão descobrindo que podem **ser autores do próprio futuro**.
 
-(essas linhas podem ser adaptadas a qualquer fase do curso)
+Por isso, querido recrutador,  
+quando encontrar um desses perfis, lembre-se de que **ali há um talento em formação** — alguém que talvez nunca tivesse tido acesso a essas oportunidades, mas que agora carrega **o brilho de quem quer construir algo significativo**.
 
-Uma frase que me representa
+Dê uma chance, abra uma porta, ofereça um diálogo.  
+Esses jovens estão prontos para aprender, contribuir e crescer — e o futuro agradece.
 
-[Escolha uma frase e faça uma citação]
+---
 
-Um pouco da minha identidade digital
+✨  
+**Projeto Elevar**  
+*Educação, inclusão e tecnologia para transformar vidas.*  
 
-[Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
+🔗 [www.projetoelevar.org.br](https://www.projetoelevar.org.br)
 
-(podem colocar uma imagem livre, um desenho próprio, ou até criar um avatar no Canva ou Bitmoji)
-
-Como me encontrar
-
-Opcional — somente se for autorizado pelo facilitador:
-E-mail de contato: [opcional]
-Me encontre no GitHub como [@usuario](https://github.com/usuario)
