@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Julio César Pontes Camargo
 
-![Minha foto][https://github.com/JulioPontesCamargo/Conect-Jovem/blob/main/Portif%C3%B3lio/img/Julio.jpg]
+<img src="./img/Julio.jpg" alt="Minha foto" width="220">
 
 Sou uma pessoa curiosa e gosto de entender como as coisas funcionam.  
 Acredito que a tecnologia pode transformar o mundo — e quero fazer parte disso de um jeito criativo e consciente.
@@ -9,9 +9,9 @@ Acredito que a tecnologia pode transformar o mundo — e quero fazer parte disso
 
 ## 🌱 Sobre mim
 
-- 🎂 **Idade**: [opcional]  
-- 📍 **Cidade**: [opcional]  
-- 💬 **Personalidade**: [ex: tranquilo(a), curioso(a), criativo(a), observador(a), prestativo(a)]  
+- 🎂 **Idade**: 27  
+- 📍 **Cidade**: Sorocaba/SP
+- 💬 **Personalidade**: Tranquilo, curioso, criativo, observador, prestativo.  
 - 💡 **Interesses**: [ex: jogos, música, esportes, design, programação, redes sociais, leitura, animais...]  
 - 🎯 **O que me motiva**: [ex: aprender coisas novas, ajudar outras pessoas, criar, entender o porquê das coisas]  
 
@@ -61,7 +61,7 @@ Eu gostaria de compartilhar com você minha biblioteca pessoal das coisas que ve
 
 ## 🎨 Um pouco da minha personalidade
 
-![avatar](../imgpersona.png)
+<img src="./img/persona.png" alt="Minha foto" width="300">
 
 
 ---
