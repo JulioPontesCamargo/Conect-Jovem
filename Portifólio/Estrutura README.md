@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Julio César Pontes Camargo
 
-![Minha foto][]
+![Minha foto][https://github.com/JulioPontesCamargo/Conect-Jovem/blob/main/Portif%C3%B3lio/img/Julio.jpg]
 
 Sou uma pessoa curiosa e gosto de entender como as coisas funcionam.  
 Acredito que a tecnologia pode transformar o mundo — e quero fazer parte disso de um jeito criativo e consciente.
