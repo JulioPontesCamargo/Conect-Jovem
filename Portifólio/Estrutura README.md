@@ -40,8 +40,8 @@ Acredito que a tecnologia pode transformar o mundo — e quero fazer parte disso
 ## 📝 Meus artigos
 
 Eu gostaria de compartilhar com você minha biblioteca pessoal das coisas que venho aprendendo e desenvolvendo:
-- [Impacto digital no mundo atual]()
-- [Seguran da informação]()
+- [Impacto digital no mundo atual](https://github.com/JulioPontesCamargo/Conect-Jovem/blob/main/Portif%C3%B3lio/Artigos/Inpacto%20Digital%20no%20mundo%20atual.md)
+- [Seguran da informação](https://github.com/JulioPontesCamargo/Conect-Jovem/blob/main/Portif%C3%B3lio/Artigos/Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o.md)
 
 ---
 
