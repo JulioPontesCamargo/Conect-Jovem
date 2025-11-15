@@ -69,7 +69,8 @@ Eu gostaria de compartilhar com você minha biblioteca pessoal das coisas que ve
 ## 📫 Como me encontrar
 
 - 📧 E-mail de contato: julio_pontes@outlook.com 
-- 💬 Me encontre no GitHub como **[@JulioCesarCamargo](https://github.com/JulioPontesCamargo)**  
+- 💬 Me encontre no GitHub como **[@JulioCesarCamargo](https://github.com/JulioPontesCamargo)**
+- 💻 Me encontre no LindIn como **[Júlio César Pontes Camargo](www.linkedin.com/in/júlio-pontes-995740219)**
 
 ---
 
